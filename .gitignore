@@ -1,2 +1,4 @@
 input/*
 venv36/
+venv37/
+.ipynb_checkpoints/
